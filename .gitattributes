@@ -11,3 +11,11 @@
 *.wav filter=lfs diff=lfs merge=lfs -text
 *.xcf filter=lfs diff=lfs merge=lfs -text
 *.jpg filter=lfs diff=lfs merge=lfs -text
+RPG_Game/Content/Audio/Foley/** !text !filter !merge !diff
+RPG_Game/Saved/Autosaves/Game/Characters/RPG_Character/Animations/** !text !filter !merge !diff
+RPG_Game/Content !text !filter !merge !diff
+RPG_Game/Content/* !text !filter !merge !diff
+RPG_Game/Content/__ExternalObjects__/** !text !filter !merge !diff
+RPG_Game/Content/StarterContent/** !text !filter !merge !diff
+RPG_Game/Content/Killer/** !text !filter !merge !diff
+RPG_Game/Content/Characters/** !text !filter !merge !diff
