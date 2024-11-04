@@ -89,10 +89,6 @@ RPG_Game/Content/Characters/Mannequins/Meshes/SK_Mannequin.uasset
 RPG_Game/Content/Characters/Mannequins/Meshes/SKM_Manny_Simple.uasset
 RPG_Game/Content/Characters/Mannequins/Rigs/CR_Mannequin_BasicFootIK.uasset
 RPG_Game/Content/Characters/Mannequins/Rigs/PA_Mannequin.uasset
-RPG_Game/Content/Characters/UEFN_Mannequin/Meshes/SK_UEFN_Mannequin.uasset
-RPG_Game/Content/Characters/UEFN_Mannequin/Meshes/SKM_UEFN_Mannequin.uasset
-RPG_Game/Content/Characters/UEFN_Mannequin/Rigs/ABP_UEFN_Mannequin_PostProcess.uasset
-RPG_Game/Content/Characters/UEFN_Mannequin/Rigs/PA_UEFN_Mannequin.uasset
 RPG_Game/Content/Input/IMC_GDCMotionMatching.uasset
 RPG_Game/Content/Killer/Mesh/Sk_Killer.uasset
 RPG_Game/Content/Killer/Mesh/Sk_Killer_PhysicsAsset.uasset
@@ -110,7 +106,7 @@ RPG_Game/Content/LevelPrototyping/Meshes/SM_ChamferCube.uasset
 RPG_Game/Content/LevelPrototyping/Meshes/SM_Cube.uasset
 RPG_Game/Content/LevelPrototyping/Meshes/SM_QuarterCylinder.uasset
 RPG_Game/Content/LevelPrototyping/Meshes/SM_Ramp.uasset
-RPG_Game/Content/Blueprints/CBP_SandboxCharacter.uasset
+# RPG_Game/Content/Blueprints/CBP_SandboxCharacter.uasset
 RPG_Game/Content/Weapon_Pack/Effects/VectorFields/VF_RandomNoise_01_90.uasset
 RPG_Game/Content/UI/Fonts/NanumMyeongjo-Bold.uasset
 RPG_Game/Content/UI/Fonts/NanumMyeongjo-Bold_Font.uasset
