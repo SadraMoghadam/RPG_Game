@@ -70,7 +70,8 @@ RPG_Game/Saved/Telemetry/
 RPG_Game/Content/StarterContent/
 RPG_Game/Content/__ExternalActors__/
 RPG_Game/Content/__ExternalObjects__/
-Animations/
+# Animations/
+UEFN_Mannequin/
 Textures/
 Audio/
 Materials/
