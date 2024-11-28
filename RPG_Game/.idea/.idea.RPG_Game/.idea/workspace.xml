@@ -6,7 +6,21 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="38a8c069-216f-41d1-9280-c3af663dce22" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/RPG_Game.uproject" beforeDir="false" afterPath="$PROJECT_DIR$/RPG_Game.uproject" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.RPG_Game/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.RPG_Game/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Blueprints/ABP_SandboxCharacter.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Blueprints/ABP_SandboxCharacter.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Blueprints/BP_AnimNotify_SphereTrace.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Blueprints/BP_AnimNotify_SphereTrace.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Blueprints/BP_AnimNotify_SwordTraceLoop.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Blueprints/BP_AnimNotify_SwordTraceLoop.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Blueprints/BP_Enemy.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Blueprints/BP_Enemy.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Blueprints/CBP_SandboxCharacter.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Blueprints/CBP_SandboxCharacter.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Characters/RPG_Character/Animations/Dodge_Roll/SprintingForwardRoll_Montage.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Characters/RPG_Character/Animations/Dodge_Roll/SprintingForwardRoll_Montage.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Characters/RPG_Character/Animations/Dodge_Roll/SprintingForwardRoll_UE.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Characters/RPG_Character/Animations/Dodge_Roll/SprintingForwardRoll_UE.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Characters/RPG_Character/Animations/Sword/AnimNotify_ComboEnd.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Characters/RPG_Character/Animations/Sword/AnimNotify_ComboEnd.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Characters/RPG_Character/Animations/Sword/AnimNotify_SwordComboNext.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Characters/RPG_Character/Animations/Sword/AnimNotify_SwordComboNext.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Levels/CoreMechanics.umap" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Levels/CoreMechanics.umap" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Source/RPG_Game/Private/Test.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Source/RPG_Game/Private/Test2.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Source/RPG_Game/Public/Test.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Source/RPG_Game/Public/Test2.h" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -420,6 +434,9 @@
       <updated>1731508038093</updated>
       <workItem from="1731508040597" duration="170000" />
       <workItem from="1731508574770" duration="88000" />
+      <workItem from="1732730308682" duration="25000" />
+      <workItem from="1732731936381" duration="50000" />
+      <workItem from="1732732027776" duration="5000" />
     </task>
     <servers />
   </component>
