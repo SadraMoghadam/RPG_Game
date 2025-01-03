@@ -84,7 +84,7 @@ Plugins/**/Intermediate/*
 # Cache files for the editor to use
 DerivedDataCache/*
 bfg-1.14.0.jar
-RPG_Game/Content/GM_NewCharacter.uasset
+# RPG_Game/Content/GM_NewCharacter.uasset
 RPG_Game/Content/Characters/Mannequins/Meshes/SK_Mannequin.uasset
 RPG_Game/Content/Characters/Mannequins/Meshes/SKM_Manny_Simple.uasset
 RPG_Game/Content/Characters/Mannequins/Rigs/CR_Mannequin_BasicFootIK.uasset
@@ -93,8 +93,8 @@ RPG_Game/Content/Input/IMC_GDCMotionMatching.uasset
 RPG_Game/Content/Killer/Mesh/Sk_Killer.uasset
 RPG_Game/Content/Killer/Mesh/Sk_Killer_PhysicsAsset.uasset
 RPG_Game/Content/Killer/Mesh/Sk_Killer_Skeleton.uasset
-RPG_Game/Content/LevelPrototyping/LevelBlock.uasset
-RPG_Game/Content/LevelPrototyping/LevelBlock_Traversable.uasset
+# RPG_Game/Content/LevelPrototyping/LevelBlock.uasset
+# RPG_Game/Content/LevelPrototyping/LevelBlock_Traversable.uasset
 RPG_Game/Content/LevelPrototyping/LevelButton.uasset
 RPG_Game/Content/LevelPrototyping/LevelVisuals.uasset
 RPG_Game/Content/LevelPrototyping/Stone_Traversable.uasset
@@ -118,7 +118,7 @@ RPG_Game/Content/Characters/Mannequins/Rigs/CR_Mannequin_Body.uasset
 RPG_Game/Content/Characters/Mannequins/Meshes/SKM_Quinn_Simple.uasset
 RPG_Game/Content/Characters/Mannequins/Meshes/SKM_Quinn.uasset
 RPG_Game/Content/Characters/Mannequins/Meshes/SKM_Manny.uasset
-RPG_Game/Content/Characters/
+# RPG_Game/Content/Characters/
 RPG_Game/Content/MetaHumans/Common/
 RPG_Game/Content/MetaHumans/Kellan/
 RPG_Game/Content/Blueprints/CBP_Character.uasset
@@ -127,3 +127,5 @@ RPG_Game/Content/Megascans/3D_Assets/Mossy_Forest_Roots_wdfhdjr/T_Mossy_Forest_R
 RPG_Game/Content/MSPresets/
 RPG_Game/Content/Megascans/
 RPG_Game/Content/TemplesOfCambodia/
+RPG_Game/Content/Characters/UE4_Mannequin/
+RPG_Game/Content/Characters/UE5_Mannequins/
